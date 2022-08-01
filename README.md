@@ -1,5 +1,5 @@
 # WaveGenerator
-The PCB of an bipolar waveform generator for EMAT sensor.
+The PCB of an bipolar waveform generator for an EMAT sensor.
 
 Technical specifications:
 - power supply up to 150V;
