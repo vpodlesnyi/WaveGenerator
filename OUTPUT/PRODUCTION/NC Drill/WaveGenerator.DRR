@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WaveGenerator.PcbDoc   8/1/2022  3:16:06 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WaveGenerator.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             34        PTH        137.42mm (5.41inch)
+T2      0.5mm (20mil)                                             Round             34        PTH        326.33mm (12.85inch)
+T3      0.9mm (35mil)                                             Round             8         PTH        22.86mm (0.90inch)
+T4      1.05mm (41mil)                                            Round             8         PTH        94.80mm (3.73inch)
+T5      1.1mm (43mil)                                             Round             3         PTH        7.00mm (0.28inch)
+T6      2.7mm (106mil)                                            Round             5         PTH        96.84mm (3.81inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              92
+
+Total Processing Time (hh:mm:ss) : 00:00:00
